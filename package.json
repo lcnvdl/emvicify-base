@@ -1,0 +1,28 @@
+{
+  "name": "@emvicify/base",
+  "version": "0.0.1",
+  "description": "Base module for Emvicify",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcnvdl/emvicify-base.git"
+  },
+  "keywords": [
+    "emvicify",
+    "base",
+    "module",
+    "mvc"
+  ],
+  "author": "lcnvdl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcnvdl/emvicify-base/issues"
+  },
+  "homepage": "https://github.com/lcnvdl/emvicify-base#readme"
+}
