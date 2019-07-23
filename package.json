@@ -1,6 +1,6 @@
 {
   "name": "@emvicify/base",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Base module for Emvicify",
   "main": "index.js",
   "directories": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/lcnvdl/emvicify-base/issues"
   },
-  "homepage": "https://github.com/lcnvdl/emvicify-base#readme"
+  "homepage": "https://github.com/lcnvdl/emvicify-base#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
