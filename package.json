@@ -1,6 +1,6 @@
 {
   "name": "@emvicify/base",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Base module for Emvicify",
   "main": "index.js",
   "directories": {
