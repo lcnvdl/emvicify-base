@@ -4,7 +4,11 @@ class Plugin {
     }
 
     get pluginName() {
-        throw new Error("Abstract property: name");
+        throw new Error("Abstract property: pluginName");
+    }
+
+    get pluginType() {
+        throw new Error("Abstract property: pluginType");
     }
 
     /**
