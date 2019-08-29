@@ -3,6 +3,10 @@ class Plugin {
         this.events = {};
     }
 
+    get pluginId() {
+        throw new Error("Abstract property: pluginId");
+    }
+
     get pluginName() {
         throw new Error("Abstract property: pluginName");
     }
