@@ -16,7 +16,7 @@ class Plugin {
     }
 
     /**
-     * @param {"configureAppBeforeServe"|"appStarted"} ev Event name
+     * @param {"configureAppBeforeServe"|"appStarted"|"install"|"uninstall"|"cli"|"commands"} ev Event name
      * @param {Function} action Action
      */
     on(ev, action) {
