@@ -11,6 +11,10 @@ class Plugin {
         throw new Error("Abstract property: pluginName");
     }
 
+    get pluginDescription() {
+        return "";
+    }
+
     get pluginType() {
         throw new Error("Abstract property: pluginType");
     }
